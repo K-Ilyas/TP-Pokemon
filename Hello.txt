@@ -1,0 +1,6 @@
+Hello world!
+世界你好！
+|--> Welcome to the pokemon game <--|
+|--> Enter {1} to create your new profile ? |
+|--> Enter {2} to connect to the server to recover your account and acheivements ? | 
+|--> your choice .| ==> 
