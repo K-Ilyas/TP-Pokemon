@@ -62,6 +62,7 @@ Cette combinaison de sérialisation et de sockets témoigne d'une architecture r
 
 4. Les combats Pokémon entre les joueurs sont gérés par la classe TraitementServerThreadFight.
 
+![Exemple de battle](fightScene.png "Exemple de battle")
 
 # Aspects Techniques
 ## Communication par Sockets
